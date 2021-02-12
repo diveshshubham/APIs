@@ -1,4 +1,4 @@
-# APIs
+#  API for registration, login with jwt authentication and to get the details of all registered user with an option to use search filter, sort filter and pagination.
 An API for registration, login with jwt authentication and to get the details of all registered user with an option to use search filter, sort filter and pagination.
 
 see my screen recording here - 
